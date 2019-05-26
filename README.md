@@ -4,7 +4,6 @@ created this script cause Lastpass's ability to import passwords from Keeper is 
 
 ## Creating export from Keeper
 
-![First Step](screenshots/Screen_Shot_2019-04-13_at_3.01.21_AM.png)
 ![First Step](screenshots/Screen_Shot_2019-04-13_at_3.01.37_AM.png)
 ![First Step](screenshots/Screen_Shot_2019-04-13_at_3.01.49_AM.png)
 
